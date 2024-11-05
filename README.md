@@ -10,6 +10,6 @@
 - 🥤 Obsessed with smoothies — they’re my go-to fuel.
 
 ## 📫 How to reach me:
-- Email: [your-email@example.com](mailto:learntest1xcoder@gmail.com)
+- Email: [learntest1xcoder@gmail.com](mailto:learntest1xcoder@gmail.com)
 
 Let's connect!
